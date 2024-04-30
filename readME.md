@@ -17,4 +17,7 @@ by inquirer
 
 <img width="296" alt="image" src="https://github.com/CCUE96/SVG-RENDERS/assets/159393541/2655a3ba-2fd9-4052-8b7a-b1c5eecb3be0">
 
+## <ins>Repository<ins>
+https://github.com/CCUE96/SVG-RENDERS
+## <ins>Video Demonstration<ins>
 https://drive.google.com/file/d/17NAI1vVsSRKiaitX8ICoOQ0F1UlCZKEx/view
